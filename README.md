@@ -13,6 +13,7 @@ A Python-based tool for generating camera calibration patterns, featuring circle
   - \`Pillow\`
   - \`cairosvg\`
   - \`svgwrite\`
+  - \`opencv-python\`  \[Must be installed\]
   - (Optionally) \`tkinter\` if not included with your Python installation
 
 You can run \`python requirment.py\` to check for any missing dependencies.  
