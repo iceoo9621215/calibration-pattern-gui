@@ -2,7 +2,7 @@
 
 A Python-based tool for generating camera calibration patterns, featuring circles, checkerboards, and ChArUco boards.
 
-![UI Preview](UI\ Preview.png)
+![UI Preview](https://github.com/iceoo9621215/calibration-pattern-gui/UI Preview.png)
 
 ## Requirements
 
